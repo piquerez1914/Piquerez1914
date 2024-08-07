@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💚🐷
 
-<!--
-**piquerez1914/Piquerez1914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabella Camargo 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Etou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 🤙📫
+
+  00001126734652SP@aluno.educacao.sp.gov.br
+  
+  @isahh_camargo15 segue nois lá 🤙
+
+![](https://media1.tenor.com/m/0bEioByAZlkAAAAC/te-amo-palmeiras-palmeiras.gif)
